@@ -1,2 +1,2 @@
 # DCM
-一种双分支特征交互融合的高效红外图像彩色化方法
+An Efficient Infrared Image Colorization via Dual-Branch Feature Interactive Fusion
